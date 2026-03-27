@@ -10,14 +10,14 @@
 
 ---
 
-# 🎨 Belajar CSS
+ 🎨 Belajar CSS
 
 CSS (*Cascading Style Sheets*) dipakai buat **mempercantik HTML**.  
 Kalau HTML itu rangka, CSS itu **kulit + gaya + aura**.
 
 ---
 
-## ⚡ Kenapa CSS Penting?
+ ⚡ Kenapa CSS Penting?
 
 - Bikin website gak keliatan jadul  
 - Ngatur warna, layout, animasi  
