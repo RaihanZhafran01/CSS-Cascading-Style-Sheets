@@ -1,0 +1,65 @@
+/* univerbsal selector */
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* type selector */
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:40px;
+    text-align: center;
+    color: darkslategrey;
+}
+
+h2{
+    color: burlywood;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* class selector */
+.informasi{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+}
+
+.penulis{
+    font-size: large;
+    color: darkgreen;
+}
+
+.tanggal{
+    font-size: smaller;
+    background-color: blue;
+}
+
+/* id selector */
+#informasi-2{
+    background-color: blueviolet;
+}
+
+/* child selector */
+p>strong{
+    background-color: crimson;
+}
+
+p>span{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: deepskyblue;
+}
+
+/* firs child */
+h1+p{
+    background-color: bisque;
+}
+
+/* all child */
+h5~p{
+    text-align: center;
+}
+
+/* class selector */
+h5.test{
+    font-size: 100px;
+}
