@@ -1,0 +1,38 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* aturan terakhir */
+i{
+    color: blueviolet;
+}
+
+i{
+    color: red;/* color: red; yang di ambil ini berdsarkan aturan css cascade */
+}
+
+/* specific */
+
+b{
+    color: coral; 
+    /* level 1 */
+}
+
+p b{
+    color: darkgreen !important;
+    /* level 3, maka yang di ambil adalah ini */
+}
+
+p b{
+    color: blueviolet;
+    /* level 2 */
+}
+
+/* studi kasus */
+p b{
+    font-size: 100px;
+}
+
+p#pendahuluan{
+    font-size: 75%;
+}
