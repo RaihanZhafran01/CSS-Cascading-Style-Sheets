@@ -1,0 +1,31 @@
+body{
+    background-color: #efefef;
+    color: #efefef;
+}
+
+#artikel{
+    border: 1px solid #e28f8f;
+    background-color: #a0a0a0;
+    padding: 20px;
+}
+
+h1{
+    background-color: rgb(59, 59, 6);
+    padding: 10px;
+}
+
+h2{
+    background-color: rgb(188, 38,0,5);
+}
+
+/* hue 0-360 */
+/* saturasi 0%-100% */
+/* lighnest 0%-100% */
+p.paragraf1{
+    padding: 10px;
+    background-color: hsl(250,100%,50%);
+}
+/* alpha 0-1 */
+p.paragraf2{
+    background-color: hsla(250, 100%, 50%,0.5);
+}
