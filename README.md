@@ -12,16 +12,16 @@
 
  🎨 Belajar CSS
 
-CSS (*Cascading Style Sheets*) dipakai buat **mempercantik HTML**.  
+CSS (*Cascading Style Sheets*) digunakan untuk **mempercantik HTML**.  
 Kalau HTML itu rangka, CSS itu **kulit + gaya + aura**.
 
 ---
 
- ⚡ Kenapa CSS Penting?
+ ⚡ Fungsi CSS
 
-- Bikin website gak keliatan jadul  
-- Ngatur warna, layout, animasi  
-- Bikin tampilan responsive (HP & PC)  
-- Wajib kalau mau jadi frontend dev  
+- membuat website agar tidak keliatan jadul  
+- mengatur warna, layout, animasi  
+- Membuat tampilan responsive (HP & PC)  
+- Wajib Bagi Frontend web
 
 ---
