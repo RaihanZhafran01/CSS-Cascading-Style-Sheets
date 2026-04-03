@@ -1,0 +1,57 @@
+div.box1{
+    height: 100px;
+    width: 500px;
+    background-color: blue;
+}
+
+div.box1 p{
+    height: 75%;
+    width: 75%;
+    background-color: chartreuse;
+}
+
+div.box2{
+    height: 200px;
+    width: 700px;
+    background-color: aqua;
+}
+
+div.box2 h2{
+    width: 50%;
+    background-color:red;
+}
+
+div.box2 p{
+    width: 50%;
+    background-color: chocolate;
+}
+
+/* uk min dan max dari box */
+
+td{
+    background-color: darkgray;
+}
+
+td.deskripsi{
+    min-width: 500px;
+    max-width: 600px;
+    background-color: orange;
+}
+
+/* overflow */
+h2,h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgoldenrod;
+}
+
+p.satu{
+    height: 100px;
+    width: 200px;
+    overflow: hidden;
+}
+
+p.dua{
+    height: 100px;
+    width: 200px;
+    overflow: scroll;
+}
