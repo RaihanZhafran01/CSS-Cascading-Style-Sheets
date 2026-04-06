@@ -13,7 +13,7 @@
  🎨 Belajar CSS
 
 CSS (*Cascading Style Sheets*) digunakan untuk **mempercantik HTML**.  
-Kalau HTML itu rangka, CSS itu **kulit + gaya + aura**.
+HTML itu rangka, CSS itu **kulit + gaya + aura**.
 
 ---
 
