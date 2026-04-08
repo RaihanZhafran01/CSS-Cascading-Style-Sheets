@@ -19,7 +19,7 @@ HTML itu rangka, CSS itu **kulit + gaya + aura**.
 
  ⚡ Fungsi CSS
 
-- membuat website agar tidak keliatan jadul  
+- membuat website agar tidak keliatan polos dan jadul    
 - mengatur warna, layout, animasi  
 - Membuat tampilan responsive (HP & PC)  
 - Wajib Bagi Frontend web
