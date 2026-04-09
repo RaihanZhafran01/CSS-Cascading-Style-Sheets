@@ -1,0 +1,42 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span {
+    background-color: burlywood;
+    border: 1px solid;
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.inline{
+    display: inline;
+}
+
+.block{
+    display: block;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.flex-container{
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.flex-item{
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
